@@ -1,4 +1,4 @@
-# Hi there, I'm Dhruthi! 👋
+# Hi there, I'm Dhruthi Vijayanand! 👋
 
 <img align="right" width="200" src="https://avatars.githubusercontent.com/dhruthivijayanand" alt="Dhruthi's Avatar"/>
 
